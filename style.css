@@ -1,0 +1,18 @@
+html {
+  font-family: 'Syne Mono', monospace;
+  text-align: center;
+  color: rgb(49, 47, 47);
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1536082558989-67e8fb74a9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=932&q=80");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+}
+
+#credit {
+  font-size: 10px;
+}
